@@ -18,9 +18,7 @@ The Art Exchange platform between students and enterprises
 * MYSQL: 5.7.22
 
 
-
-
 <br>
 
 
-更详细信息，请查看:[项目跟进文档](https://github.com/syt-honey/mobileMuseumOfArtWebsite/blob/master/%E9%A1%B9%E7%9B%AE%E8%B7%9F%E8%BF%9B%E6%96%87%E6%A1%A3.md)
+更详细信息，请查看:[项目跟进文档](https://github.com/mobileArtMuseumY/MuseumOfArtWebsite/blob/master/%E9%A1%B9%E7%9B%AE%E8%B7%9F%E8%BF%9B%E6%96%87%E6%A1%A3.md)
