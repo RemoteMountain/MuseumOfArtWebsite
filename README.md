@@ -24,7 +24,7 @@ The Art Exchange platform between students and enterprises
 
 <br>
 
-知识分享文档，请查看：[思想大碰撞](https://github.com/mobileArtMuseumY/MuseumOfArtWebsite/blob/master/knowledge_sharing_doc/2018-07-06-%E5%88%86%E4%BA%AB%E6%80%BB%E7%BB%93.md)
+知识分享文档，请查看：[思想大碰撞](https://github.com/mobileArtMuseumY/MuseumOfArtWebsite/tree/master/knowledge_sharing_doc)
 
 <br>
 <br>
